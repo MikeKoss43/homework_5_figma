@@ -1,0 +1,87 @@
+@import 'null.css';
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap');
+
+
+.wrapper {
+	max-width: 810px;
+	margin: 0px auto;
+}
+
+h1 {
+
+	Font-family: Lato;
+	Font-size: 46px;
+	font-weight: 900;
+	Line-height: 130%;
+	text-align: left;
+	height: 120px;
+	margin: 20px 0px;
+}
+
+.img {
+	width: 810px;
+	height: 360px;
+
+}
+
+.one {
+	font-family: Lato;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	padding: 20px 0px;
+}
+
+.two {
+	text-align: left;
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+.three {
+	Font-family: Lato;
+	font-weight: Bold;
+	Font-size: 20px;
+	Line-height: 150%;
+	text-align: left;
+	padding: 20px 0px 20px 40px;
+}
+
+
+.four {
+	font-family: Lato;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: left;
+	padding: 0px 0px 10px 0px
+}
+
+
+
+li {
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: left;
+	padding: 10px 0px 0px 30px;
+}
+
+.list {
+	padding: 0px 0px 20px 0px;
+}
+
+.five {
+	font-family: Lato;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: left;
+        padding: 0px 0px 30px 0px;
+}
+
+.span {
+	padding: 10px 0px 0px 0px ;
+}
